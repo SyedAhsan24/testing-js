@@ -54,4 +54,52 @@ let gameCounter = 100
 ++gameCounter;
 console.log(gameCounter);
  // prefix and postfix js mdn
+
+
  
+ 
+ // unary operator 
+
+//  let a = 5;
+//  let b = 2;
+//  console.log("a =", a , "& b = ", b);
+//  console.log(--a);
+ 
+//  console.log("a =", a);
+ 
+// Asignment operator
+// let a = 5;
+// let b = 2;
+
+// a **= 4;
+// console.log("a =", a);
+
+// let mode = "green";
+// let color;
+
+// if(mode === "dark"){
+//     color = "black";
+// }else{
+//    color = "white";
+// }
+// console.log(color);
+
+// let aliyan = 25;
+
+// if(aliyan >= 18){
+//     console.log("you can derive it!");
+    
+// }else{
+//     console.log("you can not derive it understood !");
+    
+// }
+
+let num = 12;
+
+if(num%2 === 0){
+    console.log(num, "is even" );
+    
+}else{
+    console.log(num, "is odd");
+    
+}
